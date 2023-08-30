@@ -1,0 +1,1 @@
+I've made a couple sample pages before, but that was a couple years ago. It's been a while so needless to say my skills have gotten rusty. This was a nice refresher course.
