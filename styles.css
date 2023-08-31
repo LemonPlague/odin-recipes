@@ -1,0 +1,28 @@
+/* full page */
+
+body {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* URL interactions */
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: seagreen;
+    text-decoration-style: solid;
+}
+a:active {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration: solid;
+}
+
+/* header general format */
+
+header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
